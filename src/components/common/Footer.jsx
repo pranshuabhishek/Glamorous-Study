@@ -172,7 +172,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made with ❤️ Ramanand Rajput © {new Date().getFullYear()} Studynotion</div>
+          <div className="text-center">Made with ❤️ Ramanand Rajput © {new Date().getFullYear()} Glamorous Study</div>
         </div>
       </div>
     </div>
